@@ -1,0 +1,40 @@
+.yellowGreenGradient{
+    background: -webkit-linear-gradient(left, white, #9ACD32); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(right, white, #9ACD32); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(right, white, #9ACD32); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to right, white, #9ACD32); /* Standard syntax (must be last) */
+}
+.backgroundImage{
+background-image: url("/db/image/backgroundNewUser.jpg");
+background-size:cover;
+background-repeat: no-repeat;
+}
+.headerBar{
+height:50px; 
+width:100%;
+background-color:white !important;
+}
+
+.submitBtn{
+ width:100%;
+ }
+ 
+ .singupTable{
+  width:700px;
+  height:500px;  
+ }
+ .signupTd{
+ 
+ }
+ .labelStyle{ 
+   font-family:Florence, cursive;
+}
+.legendStyle{
+font-size:xx-large;
+font-family:Florence, cursive;
+text-align:center;
+}
+.greyBackground{
+    
+    background-color:#d9d9d9;
+}

@@ -1,0 +1,46 @@
+.loginDiv{
+margin-top:10%;
+margin-left:35%;
+height:100%;
+width:100%;
+position:relative;
+}
+
+.loginTable{
+width:500px;
+height:200px;     
+
+}
+.labelStyle{ 
+   font-family:Florence, cursive;
+}
+.legendStyle{
+font-size:xx-large;
+text-align:center;
+} 
+.yellowGreenGradient{
+    background: -webkit-linear-gradient(left, white, #bfbfbf); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(right, white, #bfbfbf); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(right, white, #bfbfbf); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to right, white, #bfbfbf); /* Standard syntax (must be last) */
+}
+.greyBackground{
+    
+    background-color:#d9d9d9;
+    
+}
+.yellowGreenImage{
+background-image: url("/db/image/background.png");
+background-size:cover;
+background-repeat: no-repeat;
+
+}
+.headerBar{
+height:50px; 
+width:100%;
+background-color:white !important;
+}
+
+.submitBtn{
+ width:100%;
+ }
